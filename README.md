@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👨‍💻 Juan Martínez González-Besada
+## **Programador Junior | Estudiante de DAM**
 
-<!--
-**juanmgb-DC/juanmgb-DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📧 CONTACTO
+* **Teléfono:** 722201141
+* **Email:** [juanmartinezgonzalezb](mailto:juanmartinezgonzalezb@gmail.com)
+* **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmgb-DC)
+* **Idiomas:** * 🇪🇸 Castellano (Nativo)
+                  * 🇬🇧 Inglés (Avanzado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 SOBRE MÍ
+Estudiante apasionado de **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me defino como un **Programador Junior** en formación, responsable y con gran capacidad de aprendizaje. Enfocado en la resolución de problemas, la arquitectura de software y el trabajo colaborativo en entornos de desarrollo ágiles. 🚀
+
+---
+
+### 🎓 FORMACIÓN ACADÉMICA
+* **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** | CPR Daniel Castelao
+* **Bachillerato** | Colegio Vedruna Carmelitas 
+* **Graduado en Educación Secundaria Obligatoria**  | Colegio Vedruna Carmelitas 
+
+---
+
+### 🛠️ HABILIDADES TÉCNICAS (Junior Stack)
+
+* **Desarrollo de Software:** Lógica de programación, estructuras de datos y POO (Programación Orientada a Objetos).
+* **Gestión de Datos:** Introducción a bases de datos y persistencia.
+* **Herramientas:** Control de versiones con **Git & GitHub**, entornos de desarrollo (IDE).
+* **Soft Skills:** Comunicación técnica clara, compromiso con los plazos y proactividad en el aprendizaje.
+
+---
+
+### ⚽ EXPERIENCIA COMPLEMENTARIA
+* **Entrenador de fútbol (2023 - 2024):** Liderazgo, gestión de equipos y toma de decisiones bajo presión.
