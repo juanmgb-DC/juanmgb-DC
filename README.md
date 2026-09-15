@@ -4,7 +4,6 @@
 ---
 
 ### 📧 CONTACTO
-* **Teléfono:** 722201141
 * **Email:** [juanmartinezgonzalezb](mailto:juanmartinezgonzalezb@gmail.com)
 * **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmgb-DC)
 * **Idiomas:**  🇪🇸 Castellano (Nativo)
